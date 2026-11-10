@@ -32,9 +32,11 @@ Aplicación móvil en **Flutter / Dart** que captura el nombre, la edad y el sue
 
 ---
 
-## Pantalla de referencia
+## La app funcionando
 
-![Maqueta de referencia](capturas/maqueta_referencia.jpg)
+<table>
+  <tr><td align="center"><img src="capturas/pantalla_inicial.png" width="230" alt="Pantalla inicial"><br><sub>Pantalla inicial</sub></td><td align="center"><img src="capturas/prueba4_maria_lopez.png" width="230" alt="Resultado en diálogo"><br><sub>Resultado en diálogo</sub></td><td align="center"><img src="capturas/prueba4b_etiqueta.png" width="230" alt="Resultado en la etiqueta"><br><sub>Resultado en la etiqueta</sub></td></tr>
+</table>
 
 ---
 
@@ -83,31 +85,31 @@ flutter run
 
 **Prueba 1: Ana Torres · 17 · 8000**
 
-![Prueba 1](capturas/prueba1_menor_edad.png)
+<img src="capturas/prueba1_menor_edad.png" width="280" alt="Prueba 1">
 
 **Prueba 2: Luis Pérez · 18 · 9582.47**
 
-![Prueba 2](capturas/prueba2_sueldo_igual_minimo.png)
+<img src="capturas/prueba2_sueldo_igual_minimo.png" width="280" alt="Prueba 2">
 
 **Prueba 3: Carla Ruiz · 30 · 9582.48**
 
-![Prueba 3](capturas/prueba3_sueldo_arriba.png)
+<img src="capturas/prueba3_sueldo_arriba.png" width="280" alt="Prueba 3">
 
 **Prueba 4: María López · 45 · 25000.50**
 
-![Prueba 4](capturas/prueba4_maria_lopez.png)
+<img src="capturas/prueba4_maria_lopez.png" width="280" alt="Prueba 4">
 
 **Prueba 5: Datos incompletos**
 
-![Prueba 5](capturas/prueba5_datos_incompletos.png)
+<img src="capturas/prueba5_datos_incompletos.png" width="280" alt="Prueba 5">
 
 **Prueba 6: Limpiar datos**
 
-![Prueba 6](capturas/prueba6_limpiar_datos.png)
+<img src="capturas/prueba6_limpiar_datos.png" width="280" alt="Prueba 6">
 
 **Prueba 7: Salir**
 
-![Prueba 7](capturas/prueba7_salir.png)
+El botón **Salir** cierra la app en Android con `SystemNavigator.pop()`. En la versión web, que se usó para tomar estas capturas, el botón no tiene efecto.
 
 ---
 
