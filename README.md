@@ -81,6 +81,12 @@ flutter run
 | 6 | Presionar Limpiar datos | Campos y etiqueta quedan vacíos | ✅ Correcto |
 | 7 | Presionar Salir | La app se cierra (en Android) | ✅ Correcto |
 
+### Pruebas automatizadas (`flutter test`)
+
+Resultado de correr `flutter test`: **7 pruebas pasan** (*All tests passed!*). Las pruebas están en [`test/persona_test.dart`](test/persona_test.dart).
+
+<img src="capturas/flutter_test.png" alt="Resultado de flutter test" width="900">
+
 ### Capturas de pantalla
 
 **Prueba 1: Ana Torres · 17 · 8000**
